@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-fbx-conv
+target: fbx-conv
+
+cmds:
+  - cmd: /repo/build/gmake/bin/Debug/fbx-conv @@
+    filepath: /test.obj
